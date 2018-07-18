@@ -1,20 +1,21 @@
 # 1-1_Object_Oriented_Programming
 > ## 2018.7 Dasom
->> ### 1주차
 >> <ul>
-   >> <li> 1일차 </li>
+   >> <li> ### 1주차 </li>
 >> </ul>
->> Warming Up - Tic Tac Toe, Linked List
->> <ul>
-   >> <li> 2일차 </li>
->> </ul>
->> Fraction Calculator
->> <ul>
-   >> <li> 3일차 </li>
->> </ul>
->> Figure Calculator, Matrix C>>
->> <ul>
-   >> <li> 4일차 </li>
->> </ul>
->> Pokemon
+>>#### 1. 1일차
+>> ##### Warming Up
+>> ##### * Tic Tac Toe
+>> ##### * Linked List 
+* * *
+>>#### 2. 2일차
+>> ##### + Fraction Calculator
+***
+>>#### 3. 3일차
+>> ##### - Figure Calculator 
+>> ##### - Matrix C
+- - -
+>>#### 4. 4일차
+>> ##### * Pokemon
+-------------------
 
