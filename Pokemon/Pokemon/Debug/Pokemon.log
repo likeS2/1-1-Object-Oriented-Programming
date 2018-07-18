@@ -1,0 +1,135 @@
+﻿  Application.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+  Ball.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C3646: 'item_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  Charmander.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  Chikorita.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  Eunseo.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  Item.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C3646: 'item_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  Jisu.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  main.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\main.cpp(7): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Player.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\player.cpp(61): error C2059: 구문 오류: '}'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\player.cpp(61): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  Pokemon.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  Potion.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C3646: 'item_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  Wooper.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\yuhyun.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  Yuhyun.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(13): error C2061: 구문 오류: 식별자 'string'
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C3646: 'pokemon_name': 알 수 없는 재정의 지정자입니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\wooper.h(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\eunseo.h(9): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\charmander.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\jisu.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\chikorita.h(8): error C2504: 'Pokemon': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\item.h(7): error C2504: 'Shop': 기본 클래스를 정의하지 않았습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\조아혜\desktop\다솜\교육\c++\방중\pokemon\pokemon\application.h(31): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+  코드를 생성하고 있습니다...

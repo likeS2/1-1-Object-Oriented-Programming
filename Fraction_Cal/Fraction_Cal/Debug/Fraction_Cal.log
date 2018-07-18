@@ -1,0 +1,3 @@
+﻿  Fraction.cpp
+c:\users\조아혜\desktop\다솜\교육\c++\방중\fraction_cal\fraction_cal\fraction.cpp(46): warning C4930: 'Fraction reduction(void)': 프로토타입 함수가 호출되지 않았습니다. 변수 정의로 사용하려고 한 것은 아닌지 확인하십시오.
+  Fraction_Cal.vcxproj -> C:\Users\조아혜\Desktop\다솜\교육\C++\방중\Fraction_Cal\Debug\Fraction_Cal.exe
