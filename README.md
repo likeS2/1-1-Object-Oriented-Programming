@@ -1,10 +1,11 @@
 # 1-1_Object_Oriented_Programming
 > ## 2018.7 Dasom
->> <ul>
-   >> <li> ### 1주차 </li>
->> </ul>
+>> ### 1주차
+>> *****
 >>#### 1. 1일차
->> ##### - Warming Up
+<ul>
+   >> #####  <li> Warming Up </li>
+   </ul>
 >> ##### * Tic Tac Toe
 >> ##### * Linked List 
 * * *
