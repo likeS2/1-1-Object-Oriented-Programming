@@ -3,3 +3,9 @@
 >> ### 1주차
 >> <ul>
    >> <li> 1일차 </li>
+>> </ul>
+>>> Warming Up - Tic Tac Toe, Linked List
+>> <ul>
+   >> <li> 2일차 </li>
+>> </ul>
+>>> Fraction Calculator
