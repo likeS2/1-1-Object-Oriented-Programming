@@ -4,7 +4,7 @@
    >> <li> ### 1주차 </li>
 >> </ul>
 >>#### 1. 1일차
->> ##### Warming Up
+>> ##### - Warming Up
 >> ##### * Tic Tac Toe
 >> ##### * Linked List 
 * * *
