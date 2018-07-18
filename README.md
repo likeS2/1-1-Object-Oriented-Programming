@@ -4,7 +4,7 @@
 >> *****
 >>#### 1. 1일차
 <ul>
-   >> <li> Warming Up </li>
+  <li> Warming Up </li>
 
 >> ##### * Tic Tac Toe
 >> ##### * Linked List 
@@ -19,4 +19,4 @@
 >>#### 4. 4일차
 >> ##### * Pokemon
 -------------------
-   </ul>
+</ul>
